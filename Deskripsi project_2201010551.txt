@@ -1,0 +1,40 @@
+NAMA: NI LUH NYOMAN AYU MENUH
+NIM	: 2201010551
+KELAS: F       -      TI-KAB 
+
+UAS PEMROGRAMAN WEB
+
+
+
+
+Topik 
+
+Voting-Online: Aplikasi Website Sederhana untuk Membuat dan Menampilkan Voting atau Pemilihan"
+
+	Berikut adalah deskripsi singkat dari proyek yang akan dibuat:
+Judul Proyek: " Voting Calon Angkatan 2023 INSTIKI - Sistem Vote atau Pemilihan melalui Online"
+Deskripsi: Voting Online" adalah sebuah aplikasi yang digunakan untuk melakukan pemungutan suara atau voting secara online. Tujuan dari aplikasi ini adalah untuk memberikan kemudahan dan kenyamanan bagi pengguna dalam melakukan proses voting tanpa harus secara fisik hadir di tempat pemungutan suara.
+	Fitur-fitur yang akan diimplementasikan dalam aplikasi ini meliputi:
+1.	Pendaftaran user melalui admin: Website ini mungkin akan memiliki fitur pendaftaran user. Admin membantu membuat akun user dengan mengisi informasi yang diperlukan seperti nama, username, dan kata sandi. Setelah pendaftaran selesai, user dapat masuk ke akun mereka.
+2.	Pembuatan Voting: Admin yang memiliki hak akses yang sesuai dapat membuat voting baru. Mereka dapat menentukan judul voting, deskripsi, opsi pilihan, dan periode waktu untuk voting. Selain itu, pengguna juga dapat mengatur pengaturan keamanan, seperti apakah voting bersifat publik atau terbatas hanya untuk pengguna terdaftar.
+3.	Partisipasi dalam Voting: Setelah voting dibuat maka, user dapat mengakses voting tersebut dan memberikan suara mereka. user akan melihat opsi pilihan yang tersedia dan dapat memilih opsi yang mereka inginkan. Kemudian suara mereka akan dihitung dan disimpan secara elektronik.
+4.	Keamanan: Penting untuk memastikan bahwa sistem ini aman dan dapat dipercaya. Langkah-langkah keamanan seperti autentikasi pengguna, enkripsi data, dan perlindungan terhadap serangan yang mungkin terjadi harus diterapkan untuk melindungi integritas dan kerahasiaan data.
+5.	Hasil dan Analisis: Setelah periode voting selesai, website ini dapat menampilkan hasil voting. Admin dan User dapat melihat hasil secara keseluruhan, termasuk pers.
+ 
+	Teknologi yang akan digunakan:
+Bahasa pemrograman: PHP dan JavaScript
+Framework: CodeIgniter (untuk PHP)
+Database: MySQL
+	Hasil
+1.	Untuk Login website
+•	Login Admin
+Username: admin
+Password: password
+•	Login User 
+Username: ayu123
+Password:123456
+2.	Localhost
+http://localhost/Voting-CalonAngkatan-2023INSTIKI/login.php
+
+Dengan aplikasi Voting Online ini, user yaitu mahasiswa dapat dengan mudah memilih pilihan yang Tepat, Efektif, dan Efisien dalam Pemilihan Calon Angkatan INSTIKI 2023. Aplikasi ini akan membantu meningkatkan efisiensi dan kenyamanan dalam proses Voting online.
+
